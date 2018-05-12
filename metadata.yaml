@@ -1,0 +1,31 @@
+_repo: Einleitung-in-die-Theorie-der-Elliptischen-Funktionen_32766
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bobek, Karl Joseph
+    alias: Bobek, Karl
+    birthdate: 1855
+    deathdate: 1899
+    gutenberg_agent_id: '36037'
+    url: http://www.gutenberg.org/2009/agents/36037
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Mathematics
+gutenberg_issued: '2010-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32766'
+  lccn: '14006487'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elliptic functions'
+- !lcc 'QA'
+title: Einleitung in die Theorie der Elliptischen Funktionen
+url: http://www.gutenberg.org/ebooks/32766
