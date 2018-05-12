@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36037'
     url: http://www.gutenberg.org/2009/agents/36037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32766#Einleitung-in-die-Theorie-der-Elliptischen-Funktionen
 gutenberg_bookshelf:
 - DE Sachbuch
 - Mathematics
